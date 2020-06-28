@@ -38,44 +38,44 @@ Abra una nueva terminal y luego su terminal personalizada debería estar allí.
 
 > Cuando te conectes a tu HTB VPN, aparecerá en tu terminal.
 ---
-## Step 3: Selecting theme
+## Paso 3: Seleccionar tema
 
-Search up "Appearance" in "Menu". Double click "Custom" then click Customize. A new box should appear. Click the "Icons" tab and double click "Pwnbox"
+Busque "Apariencia" en "Menú". Haga doble clic en "Personalizar" y luego en Personalizar. Debería aparecer un nuevo cuadro. Haga clic en la pestaña "Iconos" y haga doble clic en "Pwnbox"
 
 
-## Step 4: Customising the Panel
+## Paso 4: Personalizando el Panel
 
-On the top panel of your system, right click the three system monitors graphs (the ones with all those lines). Select "Remove from Panel".
+En el panel superior de su sistema, haga clic con el botón derecho en los tres gráficos de monitores del sistema (los que tienen todas esas líneas). Seleccione "Eliminar del panel".
 
-### To get the 'ping panel'
+### Para obtener el 'panel de ping'
 
-Right click on a blank space on the top panel and choose "Add to Panel". In the search bar, type "command", select it and then click add. The time should show on the top panel. Right click on it, click Prefereces and in the command section, paste in `/opt/panel.sh` and change the interval to 5 seconds. It should show "HTB VPN: Disconnected" unless you're on a HTB VPN.
+Haga clic derecho en un espacio en blanco en el panel superior y elija "Agregar al panel". En la barra de búsqueda, escriba "comando", selecciónelo y luego haga clic en Agregar. El tiempo debe aparecer en el panel superior. Haga clic derecho sobre él, haga clic en Preferencias y en la sección de comandos, pegue `/ opt / panel.sh` y cambie el intervalo a 5 segundos. Debería mostrar "HTB VPN: desconectado" a menos que esté en una HTB VPN.
 
-### To get the "processor" menu
+### Para obtener el menú "procesador"
 
-Right click on a blank space on the top panel and search for "System monitor". Select it and add it. Right click on the little black box that appeared, select "preferences" and under "System monitor width", update it to "135" pixels, and update "System monitor update interval" "100" milliseconds. Under Monitor Resources. Check Network and Load.
+Haga clic derecho en un espacio en blanco en el panel superior y busque "Monitor de sistema". Selecciónelo y agréguelo. Haga clic derecho en el pequeño cuadro negro que apareció, seleccione "preferencias" y en "Ancho del monitor del sistema", actualícelo a "135" píxeles y actualice "Intervalo de actualización del monitor del sistema" "100" milisegundos. En Monitor de recursos. Verifique la red y la carga.
 
-## Step 5: Background
+## Paso 5: Antecedentes
 
-Saving the best for last!
+¡Guardando lo mejor para el final!
 
-Double click htb.jpg which is inside the github repo we installed. Click the image tab and click "Set as Desktop Background"
+Haga doble clic en htb.jpg que está dentro del repositorio de github que instalamos. Haga clic en la pestaña de imagen y haga clic en "Establecer como fondo de escritorio"
 
-## Enjoy!
+## ¡Disfruta!
 
-Hope this tutorial was easy for you!
+¡Espero que este tutorial haya sido fácil para ti!
 
 ---
 
-## Common Issues
-1.tun0: error fetching interface information: Device not found
+## Problemas comunes
+1.tun0: error al obtener información de la interfaz: dispositivo no encontrado
 
-This means that you have not connected to hackthebox's VPN. 
+Esto significa que no te has conectado a la VPN de hackthebox.
 
-## More issues?
+## ¿Más problemas?
 
-Report them to any one of these:
+Informe a cualquiera de estos:
 
-Twitter: https://twitter.com/ProjectFeds
+Twitter: @LuisAngelCS4
 
-Discord Taylor#1337
+Discord Warning17#0584

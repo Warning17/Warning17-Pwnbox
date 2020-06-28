@@ -78,4 +78,6 @@ Informe a cualquiera de estos:
 
 Twitter: @LuisAngelCS4
 
-Discord Warning17#0584
+Discord: Warning17#0584
+
+Instagram : @lilz_sad

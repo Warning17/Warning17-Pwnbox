@@ -1,6 +1,7 @@
 # Pwnbox
 
-![htb screenshot](pwnbox.png?raw=true "Pwnbox")
+<img width="1440" alt="pwnbox" src="https://user-images.githubusercontent.com/55423513/85961641-d9886f00-b979-11ea-9872-acc348762767.png">
+
 
 ¿Quieres tener tu propio pwnbox pero no tienes VIP?
 ¡Crea tu propio!
